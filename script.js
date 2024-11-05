@@ -1,3 +1,5 @@
+//js 추가
+
 const display = document.getElementById('display');
 
 function clearDisplay() {
