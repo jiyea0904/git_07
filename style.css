@@ -56,6 +56,10 @@ body {
     color: #fff;
 }
 
+.sign:hover{
+    background-color: #226924;
+}
+
 .equal:hover {
     background-color: #45a049;
 }
